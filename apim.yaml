@@ -1225,7 +1225,7 @@ Mappings:
       Ubuntu1804: ami-07f720baf364bf5d1
     us-west-1:
       CentOS7: ami-012618db068e1a1d7
-      Ubuntu1804: ami-0828eefff85fcb593
+      Ubuntu1804: ami-0828eefff85fcb593s
     us-west-2:
       CentOS7: ami-05698bbebabf7e762
       Ubuntu1804: ami-02e5b0d72084f2e5d
