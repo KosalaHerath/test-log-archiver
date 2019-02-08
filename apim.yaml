@@ -1213,22 +1213,22 @@ Mappings:
   WSO2APIMAMIRegionMap:
     ap-southeast-2:
       CentOS7: ami-0237f7801bdc37008
-      Ubuntu1804: ami-0cada5c60ea411fc9
+      Ubuntu1804: ami-029ae0382fb2b9758
     eu-west-1:
       CentOS7: ami-0fad4476eb4294801
-      Ubuntu1804: ami-010f7fb865407f247
+      Ubuntu1804: ami-08924c31c60794a80
     us-east-1:
       CentOS7: ami-080ee02f46a9d6257
-      Ubuntu1804: ami-0c90e596062ef3cde
+      Ubuntu1804: ami-07612b8fd7bbe4bf1
     us-east-2:
       CentOS7: ami-01bda761c850eb605
-      Ubuntu1804: ami-07f720baf364bf5d1
+      Ubuntu1804: ami-0b44a4b0f6954a2a7
     us-west-1:
       CentOS7: ami-012618db068e1a1d7
-      Ubuntu1804: ami-0828eefff85fcb593s
+      Ubuntu1804: ami-0e3a39f673f6a0c33
     us-west-2:
       CentOS7: ami-05698bbebabf7e762
-      Ubuntu1804: ami-02e5b0d72084f2e5d
+      Ubuntu1804: ami-04fad681e4a8e4177
   DBEngineMap:
     MySQL-5.7:
       DBEngine: "mysql_5.7"
